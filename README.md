@@ -123,10 +123,6 @@ If you find bugs, improvements, or want to add more algorithms (like DES, Blowfi
 
 ---
 
-📄 License
-MIT License - See LICENSE for details.
----
-
 ### 📡 Connect With Me:
 
 <p align="left">
